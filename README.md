@@ -1,16 +1,20 @@
 Phone Book Application
+
 This phone book application is a basic contact management system that allows users to store and manage contacts. Users can add, edit, and delete contacts using this application. This document provides a step-by-step guide on setting up, running, and using the application.
 
 Features
+
 Add Contact: Add a new contact to the phone book.
 View Contacts: View all contacts in the phone book.
 Edit Contact: Update the details of an existing contact.
 Delete Contact: Remove a contact from the phone book.
 Search Contact: Search for a contact by their phone number.
+
 Requirements
 Python 3.x
 Pandas (for handling CSV files)
 CSV file (data.csv) to store the contacts
+
 Setup
 Install Python: Make sure Python is installed on your system. You can download it from python.org.
 
